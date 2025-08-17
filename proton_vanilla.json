@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "display_name": "Proton (GE)",
+    "versions": [
+        {
+            "version": "10.0-2c-proton-vanilla",
+            "url": "https://github.com/Kurumiasenpai/Proton-test/releases/download/proton-10.0-2c/proton-vanilla-10.0-2c.tar.xz"
+        }
+    ],
+    "paths": {
+        "wine32": "proton",
+        "wine64": "proton",
+        "wine_server": "files/bin/wineserver",
+        "wine_boot": ""
+    }
+}
